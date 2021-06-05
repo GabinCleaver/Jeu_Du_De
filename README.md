@@ -1,3 +1,4 @@
+![untitled (2)](https://user-images.githubusercontent.com/79531012/120892476-d1679380-c60e-11eb-875e-8c4e04a656ae.png)
 # Jeu Du Dé
 ❗ Un jeu du dé totalement fait en Python par moi, et en français.
 
