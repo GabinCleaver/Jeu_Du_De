@@ -16,4 +16,5 @@ Poru finir je demande si l'utilisateur veut rejouer.
 
 🎫 Mon Discord: Gabin#7955
 
-![untitled (2)](https://user-images.githubusercontent.com/79531012/120892476-d1679380-c60e-11eb-875e-8c4e04a656ae.png)
+![jeu_du_de](https://user-images.githubusercontent.com/79531012/120892528-17bcf280-c60f-11eb-827a-8113858f54bb.png)
+
