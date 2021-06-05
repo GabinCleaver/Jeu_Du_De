@@ -2,6 +2,7 @@
 ❗ Un jeu du dé totalement fait en Python par moi, et en français.
 
 🔮 Avec l'utilisation du module "random", j'ai pu faire un choix aléatoire entre 1 et 6 valeurs.
+
 ✨ Ceci me permet de pouvoir avoir une valueur aléatoire qui sera le résultat du dé.
 
 Ensuite, je demande si l'utilisateur veut faire un paris sur le résultat du dé.
