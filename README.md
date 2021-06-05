@@ -12,6 +12,10 @@ Sinon c'est perdu !
 Et si l'utilisteur dit n (no), Je donne seulement le résultat du dé.
 Poru finir je demande si l'utilisateur veut rejouer.
 
+__Dépendences :__
+
+```pip install colorama```
+
 💖 Enjoy
 
 🎫 Mon Discord: Gabin#7955
